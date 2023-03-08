@@ -1,0 +1,21 @@
+"\"It's the strangest headache I've ever had.\" It's a nice and creative way to start your essay. However, it's better to avoid starting your essay with description or by telling the readers the quality of your headache. It might not provide the best hook to intrigue the reader. Consider starting with a different sentence that will grab your reader's attention. 
+
+\"My computer is scorching my legs, fans blaring, filling my ears with the stressful equivalent of a waterfallâ€™s hiss.\" This part of the sentence has great imagery! However, this can be made more coherent by splitting it up into separate sentences or further elaborating on the scene to give more context.
+
+\"The word \"loading...\" sits on my screen, taunting me, and all I can do is wait.\" This is a good place to give a clear explanation of what you mean by \"loading\" — it might be better to avoid jargon if it's not clear from the context.
+
+\"I'm building a game with the Unity framework,\" It's important to build context sooner in your essay, establishing why these frustrations matter to you.
+
+\"I gradually became infuriated with my options.\" This is a good opportunity to show, not tell. How did you feel? What was frustrating? Give specific details to help the reader understand your emotions.
+
+\"Imagine if every time a painter laid down a stroke, they had to wait a minute to see it. This is how game development feels, to me.\" This is a great comparison! Expanding upon the metaphor could help illustrate to readers the process of game development.
+
+\"With my knowledge of the various languages I had learned over time, I began to envision my own \"high-performance scripting language.\"\" Use concise and straightforward sentences to communicate your ideas. For instance, it's better to say \"I envisioned creating\" rather than \"I began to envision\".
+
+\"When I had enough concrete details for my language, I read the standard college textbook on compiler design (the \"Dragon Book\") and taught myself about CS topics like Discrete Finite Automata and Parser Generators.\" Be mindful of overloading the essay with abbreviations or CS jargon that may not be familiar to all readers. 
+
+\"More than that, she is my cheerleader and inspiration.\" Be more specific about how your mother has helped or inspired you beyond generalizations, and perhaps link the mother's support and inspiration back to what you've learned.
+
+\"Today, cxc (the name I chose for my new language) has a complete compiler, spanning 6,000 lines of code and growing rapidly.\" This is a great way to conclude your essay by highlighting your achievements. However, including more about future goals or where you plan to take cxc would also give the essay more direction. 
+
+\"I've published my knowledge base online for anyone to critique - growing my council beyond one person.\" Great to touch on collaborative work, but perhaps you can indulge more detail with how collaborating has helped you." = $1
